@@ -1,16 +1,8 @@
 # Summary
 
-* [1. 简介](chapters/ch1/README.md)
-	* [1.1. 概述](chapters/ch1/1_1.md)
-	* [1.2. 术语表](chapters/ch1/1_2.md)
-* [2. 架构](chapters/ch2/README.md)
-	* [2.1 对象模型](chapters/ch2/2_1.md)
-		* [2.1.1. 连接](chapters/ch2/2_1_1.md)
-		* [2.1.2. 域](chapters/ch2/2_1_2.md)
-		* [2.1.3. 虚拟网络](chapters/ch2/2_1_3.md)
-		* [2.1.4. 存储池](chapters/ch2/2_1_4.md)
-		* [2.1.5. 存储卷](chapters/ch2/2_1_5.md)
-		* [2.1.6. 宿主机设备](chapters/ch2/2_1_6.md)
+* [1. 简介](chapters/ch1/1.md)
+* [2. 架构]
+	* [2.1. 对象模型](chapters/ch2/2_1.md)
 	* [2.2. 驱动模型](chapters/ch2/2_2.md)
 	* [2.3. 远程管理](chapters/ch2/2_3.md)
 		* [2.3.1. 基本用法](chapters/ch2/2_3_1.md)
