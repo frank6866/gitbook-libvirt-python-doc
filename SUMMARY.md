@@ -1,7 +1,7 @@
 # Summary
 
 * [1. 简介](chapters/ch1/1.md)
-* 2. 架构
+* [2. 架构]()
 	* [2.1. 对象模型](chapters/ch2/2_1.md)
 	* [2.2. 驱动模型](chapters/ch2/2_2.md)
 	* [2.3. 远程管理](chapters/ch2/2_3.md)
