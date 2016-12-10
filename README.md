@@ -1,6 +1,6 @@
 # libvirt python api
 
-[gitbook地址](https://frank6866.gitbooks.io/libvirt-python-doc/content/)
+[本文档gitbook地址](https://frank6866.gitbooks.io/libvirt-python-doc/content/)
 
 ## 主要内容
 
