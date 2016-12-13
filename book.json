@@ -1,18 +1,8 @@
 {
-    "plugins": [ "theme-api" ],
+    "plugins": ["disqus"],
     "pluginsConfig": {
-        "theme-api": {
-            "languages": [
-                {
-                    "lang": "js",
-                    "name": "JavaScript",
-                    "default": true
-                },
-                {
-                    "lang": "go",
-                    "name": "Go"
-                }
-            ]
+        "disqus": {
+            "shortName": "frank6866"
         }
     }
 }
