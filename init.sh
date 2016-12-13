@@ -1,9 +1,15 @@
 #!/usr/bin/env bash
-gitbook init
 
+scriptPath=`dirname $0`
 
+cd ${scriptPath}
+
+# install plugin
 # npm install -g gitbook-plugin-toggle-chapters
 npm install gitbook-plugin-disqus -g
+gitbook install
 
 
-gitbook serve .
+gitbook init
+gitbook serve ${scriptPath}
+
